@@ -1,0 +1,11 @@
+.pagination {
+text-align: center;
+  button {
+    display: inline-block;
+    padding: 0 5px;
+    margin: 0 3px;
+  }
+  .current {
+    background-color: green;
+  }
+}
